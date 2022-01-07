@@ -1,4 +1,4 @@
-# Technical-task-for-Insai
+# Data-scientist-task
  By Toomas Erik Anijärv
 
 Most of the comments and workflow can be read from the code
